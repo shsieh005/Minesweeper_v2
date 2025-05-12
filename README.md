@@ -2,11 +2,6 @@
 
 A classic **Minesweeper** clone built with React and Vite.
 
-## 🚀 Prerequisites
-
-- [Node.js](https://nodejs.org/) v14 or above  
-- A package manager: **npm**, **yarn**, or **pnpm**
-
 ## 📥 Installation
 
 1. **Clone the repo**  
